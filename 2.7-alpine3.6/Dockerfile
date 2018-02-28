@@ -1,4 +1,4 @@
-FROM conchoid/docker-pyenv:v1.1.5-6-2.7-alpine3.6
+FROM conchoid/docker-pyenv:v1.1.5-7-2.7-alpine3.6
 
 RUN set -x \
     && PYTHON2_VERSION="2.7.14" \
